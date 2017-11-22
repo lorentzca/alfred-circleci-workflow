@@ -10,6 +10,8 @@ Show CircleCI Build Status.
 
 Download and double-click.
 
+- https://github.com/lorentzca/alfred-circleci-workflow/releases/latest
+
 ## Usage
 
 Register CircleCI Token.
