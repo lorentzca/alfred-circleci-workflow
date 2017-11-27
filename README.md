@@ -22,7 +22,7 @@ Register CircleCI Token.
 circleci token <XXXX>
 ```
 
-Search and show hosts status.
+Search and show build status.
 
 - filterable word is repository or branch or build status or username
 
