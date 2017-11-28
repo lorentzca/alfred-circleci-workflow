@@ -16,7 +16,7 @@ Download and double-click.
 
 Register CircleCI Token.
 
-- save to `token` file in workflow's data folder
+- `apikey` saved in your `Keychain Access.app`
 
 ```
 circleci token <XXXX>
